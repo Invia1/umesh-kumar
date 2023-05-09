@@ -47,7 +47,7 @@ class Bank_manag
     {
         Bank obj = new Bank();
 
-        Console.WriteLine("Enter your Salary:");
+        Console.WriteLine("Enter your Amount:");
         int a= int.Parse(Console.ReadLine());
 
         Console.WriteLine("Enter your Name");
