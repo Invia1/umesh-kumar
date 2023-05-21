@@ -22,7 +22,7 @@ namespace Test_1.UI
             Console.WriteLine("Enter the Address");
             string d = Console.ReadLine();
             Console.WriteLine("Enter the Aadhar no:");
-            int e = int.Parse(Console.ReadLine());
+            string e = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter your Gender");
             char k = Convert.ToChar(Console.ReadLine());
             Console.WriteLine("For which speciality:");
